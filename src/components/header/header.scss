@@ -1,0 +1,21 @@
+.header{
+    background-color: orange;
+    .boxes{
+        width: 80%;
+        color: white;
+        margin: auto;
+        align-items: center;
+        display: flex;
+        justify-content: space-between;
+    ul{
+        display: flex;
+        li{
+            a{
+                color: white;
+                padding: 20px;
+                display: inline-block;
+            }
+        }
+    }
+    }
+}
